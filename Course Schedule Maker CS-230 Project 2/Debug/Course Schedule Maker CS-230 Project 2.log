@@ -1,0 +1,15 @@
+﻿  BinarySearchTree.cpp
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\BinarySearchTree.cpp(99,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\BinarySearchTree.cpp(103,18): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\UserMenu.h(12,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\BinarySearchTree.h(12,1): warning C4005: 'COURSE': macro redefinition
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\UserMenu.h(13): message : see previous definition of 'COURSE'
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\Main.cpp(138,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\Main.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+  UserMenu.cpp
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\UserMenu.h(12,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\UserMenu.cpp(54,39): warning C4101: 'excpt': unreferenced local variable
+C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\UserMenu.cpp(62,35): warning C4101: 'excpt': unreferenced local variable
+  Generating Code...
+  Course Schedule Maker CS-230 Project 2.vcxproj -> C:\Users\conno\source\repos\Course Schedule Maker CS-230 Project 2\Debug\Course Schedule Maker CS-230 Project 2.exe
